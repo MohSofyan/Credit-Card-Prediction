@@ -1,1 +1,1 @@
-# Prediksi-Kartu-Kredit
+# Credit-card-prediction
